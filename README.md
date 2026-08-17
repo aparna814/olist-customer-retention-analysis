@@ -45,7 +45,7 @@ The dashboard includes:
 
 ### Dashboard Preview
 
-![Olist Customer Retention Dashboard](dashboard_screenshot.png)
+![Olist Customer Retention Dashboard](olistcustomer%20retention%20pic.png)
 
 ## 🛠️ Tools
 
@@ -63,4 +63,4 @@ The dashboard includes:
 
 The `.pbix` file is hosted on Google Drive because of GitHub's file-size limitation.
 
-**[Download the Power BI Dashboard (.pbix)](https://drive.google.com/file/d/1BoiZ5LYSiorno4EPq_WJayP_64GGwggg/view?usp=sharing)**
+**[Download the Power BI Dashboard (.pbix)](https://drive.google.com/file/d/1BoiZ5LYSiorno4EPq_WJayP_64GGwggg/view?usp=sharing)
