@@ -45,7 +45,7 @@ The dashboard includes:
 
 ### Dashboard Preview
 
-![Olist Customer Retention Dashboard](olist%20customer%20&repeat%20purchase%20ananlysis.png)
+![Olist Customer Retention Dashboard](olist%20customer%20&%20repeat%20purchase%20ananlysis.png)
 
 ## 🛠️ Tools
 
